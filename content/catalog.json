@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "updatedAt": "2026-11-24T00:00:00Z",
+  "packages": [
+    {
+      "kind": "canvas",
+      "id": "cat-001",
+      "version": 1,
+      "title": "Cat",
+      "category": "Animals",
+      "sizeBytes": 6190,
+      "sha256": "1290c8fae151367faa660b6cf6ea5765147df2e8826b5c79b91af3c35ca5fea3",
+      "downloadPath": "starter/cat-001/manifest.json",
+      "minimumGameVersion": "1.0.0"
+    },
+    {
+      "kind": "canvas",
+      "id": "dino-001",
+      "version": 1,
+      "title": "Friendly T-Rex",
+      "category": "Dinosaurs",
+      "sizeBytes": 7314,
+      "sha256": "19fe59522077122a287c0be6adde57175d7956981a094e79dae4ba59bca15386",
+      "downloadPath": "starter/dino-001/manifest.json",
+      "minimumGameVersion": "1.0.0"
+    },
+    {
+      "kind": "canvas",
+      "id": "rocket-001",
+      "version": 1,
+      "title": "Rocket",
+      "category": "Space",
+      "sizeBytes": 5248,
+      "sha256": "3d9d6a4e73c2d929faa968f78e77a1fa9a5a2dd32afe7c0106c8127a9577e0d1",
+      "downloadPath": "starter/rocket-001/manifest.json",
+      "minimumGameVersion": "1.0.0"
+    },
+    {
+      "kind": "canvas",
+      "id": "flower-001",
+      "version": 1,
+      "title": "Flower",
+      "category": "Flowers",
+      "sizeBytes": 5690,
+      "sha256": "399730d3591ecc48d3d222ada62f688cca94852e9641e18bfb6a0161759da1a0",
+      "downloadPath": "starter/flower-001/manifest.json",
+      "minimumGameVersion": "1.0.0"
+    },
+    {
+      "kind": "canvas",
+      "id": "butterfly-001",
+      "version": 1,
+      "title": "Butterfly",
+      "category": "Nature",
+      "sizeBytes": 5546,
+      "sha256": "6507a3e05caeb635eaea75e31ef3f58d2634db9b193831106b00d3dfcc1a263a",
+      "downloadPath": "starter/butterfly-001/manifest.json",
+      "minimumGameVersion": "1.0.0"
+    },
+    {
+      "kind": "canvas",
+      "id": "turtle-001",
+      "version": 1,
+      "title": "Turtle",
+      "category": "Animals",
+      "sizeBytes": 4570,
+      "sha256": "1f660fd044cfb569d217518931027940bb0dc9793eba9f6ff74703eb170e8514",
+      "downloadPath": "starter/turtle-001/manifest.json",
+      "minimumGameVersion": "1.0.0"
+    }
+  ],
+  "featured": [
+    "dino-001",
+    "butterfly-001"
+  ],
+  "daily": {}
+}
