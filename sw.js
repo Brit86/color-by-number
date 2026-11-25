@@ -3,7 +3,9 @@
  *
  * Two versioned caches:
  *   cbn-shell-v1   — app shell (HTML, CSS, JS, manifest, icons, offline page)
- *   cbn-starter-v1 — bundled starter content + bundled catalog
+ *   cbn-starter-v2 — bundled starter content + bundled catalog (v2: adult-complex
+ *     redraw of all six starters, Nov 24, 2026; bumped so installed browsers fetch
+ *     the new art instead of serving the v1 kid canvases from cache)
  *
  * Cache-first: the shell never needs the network. Old caches are deleted in
  * `activate`, which only runs after a new worker's `install` has fully
@@ -12,7 +14,7 @@
  */
 
 const SHELL_CACHE = "cbn-shell-v1";
-const STARTER_CACHE = "cbn-starter-v1";
+const STARTER_CACHE = "cbn-starter-v2";
 
 const SHELL_ASSETS = [
   "./",
