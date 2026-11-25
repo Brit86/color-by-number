@@ -1,79 +1,79 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 2,
-  "updatedAt": "2026-11-24T00:00:00Z",
+  "catalogVersion": 3,
+  "updatedAt": "2026-11-25T00:00:00Z",
   "packages": [
     {
       "kind": "canvas",
       "id": "cat-001",
-      "version": 2,
+      "version": 3,
       "title": "Cat",
       "category": "Animals",
-      "sizeBytes": 46155,
-      "sha256": "b48e0c9433aeaa8afa4389f489751dc0a117afa7a6aa8b6803fe307f88148f32",
+      "sizeBytes": 443111,
+      "sha256": "612f4dc2dfd98eba0ffd87772835e48b37870eff8eb4870087e8d3942e609a4e",
       "downloadPath": "starter/cat-001/manifest.json",
       "minimumGameVersion": "1.0.0",
-      "updatedAt": "2026-11-24T00:00:00Z"
+      "updatedAt": "2026-11-25T00:00:00Z"
     },
     {
       "kind": "canvas",
       "id": "dino-001",
-      "version": 2,
+      "version": 3,
       "title": "Friendly T-Rex",
       "category": "Dinosaurs",
-      "sizeBytes": 52209,
-      "sha256": "4dab02ff11a95015481b52148731f8ab48ffbe677e6689ef98408abdc484c9b0",
+      "sizeBytes": 566885,
+      "sha256": "6b18f243a1b5120eb29424def7ed29a9ae83612091ddb0e403cacb06222d65ad",
       "downloadPath": "starter/dino-001/manifest.json",
       "minimumGameVersion": "1.0.0",
-      "updatedAt": "2026-11-24T00:00:00Z"
+      "updatedAt": "2026-11-25T00:00:00Z"
     },
     {
       "kind": "canvas",
       "id": "rocket-001",
-      "version": 2,
+      "version": 3,
       "title": "Rocket",
       "category": "Space",
-      "sizeBytes": 44040,
-      "sha256": "f6b0df220f8b492828d047f0c8efb4a6c936e1279c2e943f15c45119525ae749",
+      "sizeBytes": 205646,
+      "sha256": "15a2d2a50ea11d08641ef7ae4e03aca776f7f04e3ac910399b555bff625b6371",
       "downloadPath": "starter/rocket-001/manifest.json",
       "minimumGameVersion": "1.0.0",
-      "updatedAt": "2026-11-24T00:00:00Z"
+      "updatedAt": "2026-11-25T00:00:00Z"
     },
     {
       "kind": "canvas",
       "id": "flower-001",
-      "version": 2,
+      "version": 3,
       "title": "Flower",
       "category": "Flowers",
-      "sizeBytes": 47819,
-      "sha256": "8e714c51fdae49a6543b92a530d185657229d9df42f14252bd6cd789cda61147",
+      "sizeBytes": 323562,
+      "sha256": "6a975640dca410d925a056beebeb518be1201e4e897072b61df45432cf677d7b",
       "downloadPath": "starter/flower-001/manifest.json",
       "minimumGameVersion": "1.0.0",
-      "updatedAt": "2026-11-24T00:00:00Z"
+      "updatedAt": "2026-11-25T00:00:00Z"
     },
     {
       "kind": "canvas",
       "id": "butterfly-001",
-      "version": 2,
+      "version": 3,
       "title": "Butterfly",
       "category": "Nature",
-      "sizeBytes": 51884,
-      "sha256": "c178a6084286005466397532ef0eb79f4d45eaa309311b144e7e1dee399d352e",
+      "sizeBytes": 441482,
+      "sha256": "0389eb424ec418e00d24e0d329fc71b7bb3d7d64442d91d895019fb83d588b2c",
       "downloadPath": "starter/butterfly-001/manifest.json",
       "minimumGameVersion": "1.0.0",
-      "updatedAt": "2026-11-24T00:00:00Z"
+      "updatedAt": "2026-11-25T00:00:00Z"
     },
     {
       "kind": "canvas",
       "id": "turtle-001",
-      "version": 2,
+      "version": 3,
       "title": "Turtle",
       "category": "Animals",
-      "sizeBytes": 48977,
-      "sha256": "1df1333a69a62f6578ac648415d89108bbf3e86e18e080462b29420c4e0ccbd7",
+      "sizeBytes": 259534,
+      "sha256": "4730f7b957302feab24d37569e0bef29103bedbf3a287a0c0e40f2c1aaa6b9f9",
       "downloadPath": "starter/turtle-001/manifest.json",
       "minimumGameVersion": "1.0.0",
-      "updatedAt": "2026-11-24T00:00:00Z"
+      "updatedAt": "2026-11-25T00:00:00Z"
     }
   ],
   "featured": [
