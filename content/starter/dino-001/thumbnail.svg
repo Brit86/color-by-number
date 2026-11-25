@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Friendly T-Rex">
+  <path d="M 290 230 Q 370 220 375 270 Q 370 300 320 295 Q 300 260 290 250 Z" fill="#72B84A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="170,190 190,140 205,190" fill="#FB923C" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="210,185 235,135 250,185" fill="#FB923C" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="255,195 275,150 290,195" fill="#FB923C" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="210" cy="250" rx="95" ry="70" fill="#72B84A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="215" cy="285" rx="60" ry="35" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="130" cy="150" r="60" fill="#72B84A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="95" cy="165" rx="45" ry="28" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="110" cy="195" rx="35" ry="18" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="105,185 115,185 110,195" fill="#FFFFFF" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
+  <circle cx="125" cy="135" r="14" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="150" cy="260" rx="14" ry="20" fill="#72B84A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="185" cy="330" rx="25" ry="30" fill="#72B84A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="180" cy="360" rx="30" ry="12" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="255" cy="330" rx="28" ry="32" fill="#72B84A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="255" cy="362" rx="32" ry="12" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+</svg>

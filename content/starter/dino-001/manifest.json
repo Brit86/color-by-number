@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "dino-001",
+  "version": 1,
+  "title": "Friendly T-Rex",
+  "description": "A smiling T-Rex in the jungle.",
+  "category": "Dinosaurs",
+  "tags": [
+    "dinosaur",
+    "animal"
+  ],
+  "difficulty": "easy",
+  "thumbnail": "thumbnail.svg",
+  "artwork": "canvas.svg",
+  "palette": [
+    {
+      "number": 1,
+      "color": "#72B84A",
+      "name": "Leaf green"
+    },
+    {
+      "number": 2,
+      "color": "#F2C230",
+      "name": "Sunny yellow"
+    },
+    {
+      "number": 3,
+      "color": "#FB923C",
+      "name": "Orange"
+    },
+    {
+      "number": 4,
+      "color": "#3B82F6",
+      "name": "Blue"
+    }
+  ],
+  "minimumGameVersion": "1.0.0",
+  "sizeBytes": 7314,
+  "updatedAt": "2026-11-24T00:00:00Z",
+  "sha256": "19fe59522077122a287c0be6adde57175d7956981a094e79dae4ba59bca15386",
+  "featured": true,
+  "ageBand": "3-6",
+  "sortOrder": 20
+}
