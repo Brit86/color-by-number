@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "turtle-001",
-  "version": 1,
+  "version": 2,
   "title": "Turtle",
   "description": "A slow and steady little turtle.",
   "category": "Animals",
@@ -9,19 +9,19 @@
     "turtle",
     "animal"
   ],
-  "difficulty": "medium",
+  "difficulty": "hard",
   "thumbnail": "thumbnail.svg",
   "artwork": "canvas.svg",
   "palette": [
     {
       "number": 1,
-      "color": "#22C55E",
+      "color": "#16A34A",
       "name": "Green"
     },
     {
       "number": 2,
-      "color": "#86EFAC",
-      "name": "Light green"
+      "color": "#166534",
+      "name": "Dark green"
     },
     {
       "number": 3,
@@ -30,15 +30,60 @@
     },
     {
       "number": 4,
-      "color": "#15803D",
-      "name": "Dark green"
+      "color": "#0D9488",
+      "name": "Teal"
+    },
+    {
+      "number": 5,
+      "color": "#3B82F6",
+      "name": "Blue"
+    },
+    {
+      "number": 6,
+      "color": "#7DD3FC",
+      "name": "Sky blue"
+    },
+    {
+      "number": 7,
+      "color": "#FACC15",
+      "name": "Yellow"
+    },
+    {
+      "number": 8,
+      "color": "#F97316",
+      "name": "Orange"
+    },
+    {
+      "number": 9,
+      "color": "#F9A8D4",
+      "name": "Pink"
+    },
+    {
+      "number": 10,
+      "color": "#92400E",
+      "name": "Brown"
+    },
+    {
+      "number": 11,
+      "color": "#FEF3C7",
+      "name": "Cream"
+    },
+    {
+      "number": 12,
+      "color": "#8B5CF6",
+      "name": "Purple"
+    },
+    {
+      "number": 13,
+      "color": "#9CA3AF",
+      "name": "Grey"
     }
   ],
   "minimumGameVersion": "1.0.0",
-  "sizeBytes": 4570,
+  "sizeBytes": 48977,
   "updatedAt": "2026-11-24T00:00:00Z",
-  "sha256": "1f660fd044cfb569d217518931027940bb0dc9793eba9f6ff74703eb170e8514",
+  "sha256": "1df1333a69a62f6578ac648415d89108bbf3e86e18e080462b29420c4e0ccbd7",
   "featured": false,
-  "ageBand": "3-6",
+  "ageBand": "adult",
   "sortOrder": 60
 }
