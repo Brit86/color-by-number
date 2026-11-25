@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "rocket-001",
-  "version": 1,
+  "version": 2,
   "title": "Rocket",
   "description": "A little red rocket blasting off.",
   "category": "Space",
@@ -9,7 +9,7 @@
     "rocket",
     "space"
   ],
-  "difficulty": "easy",
+  "difficulty": "medium",
   "thumbnail": "thumbnail.svg",
   "artwork": "canvas.svg",
   "palette": [
@@ -20,25 +20,65 @@
     },
     {
       "number": 2,
-      "color": "#F2C230",
-      "name": "Sunny yellow"
+      "color": "#F8FAFC",
+      "name": "White"
     },
     {
       "number": 3,
-      "color": "#3B82F6",
-      "name": "Blue"
+      "color": "#CBD5E1",
+      "name": "Silver"
     },
     {
       "number": 4,
-      "color": "#FB923C",
+      "color": "#2563EB",
+      "name": "Blue"
+    },
+    {
+      "number": 5,
+      "color": "#FACC15",
+      "name": "Yellow"
+    },
+    {
+      "number": 6,
+      "color": "#F97316",
       "name": "Orange"
+    },
+    {
+      "number": 7,
+      "color": "#7C3AED",
+      "name": "Purple"
+    },
+    {
+      "number": 8,
+      "color": "#14B8A6",
+      "name": "Teal"
+    },
+    {
+      "number": 9,
+      "color": "#F9A8D4",
+      "name": "Pink"
+    },
+    {
+      "number": 10,
+      "color": "#1E3A8A",
+      "name": "Navy"
+    },
+    {
+      "number": 11,
+      "color": "#94A3B8",
+      "name": "Grey"
+    },
+    {
+      "number": 12,
+      "color": "#D97706",
+      "name": "Gold"
     }
   ],
   "minimumGameVersion": "1.0.0",
-  "sizeBytes": 5248,
+  "sizeBytes": 44040,
   "updatedAt": "2026-11-24T00:00:00Z",
-  "sha256": "3d9d6a4e73c2d929faa968f78e77a1fa9a5a2dd32afe7c0106c8127a9577e0d1",
+  "sha256": "f6b0df220f8b492828d047f0c8efb4a6c936e1279c2e943f15c45119525ae749",
   "featured": false,
-  "ageBand": "3-6",
+  "ageBand": "adult",
   "sortOrder": 30
 }

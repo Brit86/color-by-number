@@ -1,14 +1,96 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Rocket">
-  <path d="M 170 280 L 230 280 L 215 340 Q 200 365 185 340 Z" fill="#FB923C" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <path d="M 185 280 L 215 280 L 205 325 Q 200 340 195 325 Z" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <polygon points="150,240 110,310 150,300" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <polygon points="250,240 290,310 250,300" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <path d="M 200 40 Q 250 90 250 180 L 250 280 L 150 280 L 150 180 Q 150 90 200 40 Z" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <path d="M 200 40 Q 230 75 235 110 L 165 110 Q 170 75 200 40 Z" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <rect x="196" y="14" width="8" height="30" rx="4" fill="#EF4444" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
-  <circle cx="200" cy="14" r="10" fill="#F2C230" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
-  <circle cx="200" cy="180" r="32" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <circle cx="200" cy="180" r="20" fill="#BFDBFE" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
-  <rect x="160" y="220" width="18" height="60" rx="9" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <rect x="222" y="220" width="18" height="60" rx="9" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="0" y="0" width="400" height="400" fill="#1E3A8A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="30,34 32,38 36,40 32,42 30,46 28,42 24,40 28,38" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="70,124 72,128 76,130 72,132 70,136 68,132 64,130 68,128" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="40,204 42,208 46,210 42,212 40,216 38,212 34,210 38,208" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="90,254 92,258 96,260 92,262 90,266 88,262 84,260 88,258" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="30,324 32,328 36,330 32,332 30,336 28,332 24,330 28,328" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="110,34 112,38 116,40 112,42 110,46 108,42 104,40 108,38" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="130,84 132,88 136,90 132,92 130,96 128,92 124,90 128,88" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="60,164 62,168 66,170 62,172 60,176 58,172 54,170 58,168" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="150,324 152,328 156,330 152,332 150,336 148,332 144,330 148,328" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="120,364 122,368 126,370 122,372 120,376 118,372 114,370 118,368" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="250,24 252,28 256,30 252,32 250,36 248,32 244,30 248,28" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="290,64 292,68 296,70 292,72 290,76 288,72 284,70 288,68" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="330,134 332,138 336,140 332,142 330,146 328,142 324,140 328,138" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="370,54 372,58 376,60 372,62 370,66 368,62 364,60 368,58" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="300,194 302,198 306,200 302,202 300,206 298,202 294,200 298,198" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="360,234 362,238 366,240 362,242 360,246 358,242 354,240 358,238" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="280,334 282,338 286,340 282,342 280,346 278,342 274,340 278,338" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="340,354 342,358 346,360 342,362 340,366 338,362 334,360 338,358" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="240,374 242,378 246,380 242,382 240,386 238,382 234,380 238,378" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="170,34 172,38 176,40 172,42 170,46 168,42 164,40 168,38" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="210,84 212,88 216,90 212,92 210,96 208,92 204,90 208,88" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="90,294 92,298 96,300 92,302 90,306 88,302 84,300 88,298" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="260,244 262,248 266,250 262,252 260,256 258,252 254,250 258,248" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="370,304 372,308 376,310 372,312 370,316 368,312 364,310 368,308" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="140,144 142,148 146,150 142,152 140,156 138,152 134,150 138,148" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="320,164 322,168 326,170 322,172 320,176 318,172 314,170 318,168" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="200,344 202,348 206,350 202,352 200,356 198,352 194,350 198,348" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="50,84 52,88 56,90 52,92 50,96 48,92 44,90 48,88" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="380,174 382,178 386,180 382,182 380,186 378,182 374,180 378,178" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="230,124 232,128 236,130 232,132 230,136 228,132 224,130 228,128" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="330" cy="70" r="34" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="318" cy="60" r="6" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="338" cy="82" r="8" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="326" cy="84" r="5" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="344" cy="58" r="4" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="332" cy="48" r="5" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="70" cy="90" r="30" fill="#7C3AED" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <path d="M 41.1 82.0 L 98.9 82.0 A 30 30 0 0 1 99.9 92.0 L 40.1 92.0 A 30 30 0 0 1 41.1 82.0 Z" fill="#14B8A6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <path d="M 41.1 98.0 L 98.9 98.0 A 30 30 0 0 1 95.4 106.0 L 44.6 106.0 A 30 30 0 0 1 41.1 98.0 Z" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="70" cy="90" rx="52" ry="13" transform="rotate(-18 70 90)" fill="none" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
+  <circle cx="60" cy="300" r="18" fill="#2563EB" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <path d="M 42.5 296.0 L 77.5 296.0 A 18 18 0 0 1 77.9 302.0 L 42.1 302.0 A 18 18 0 0 1 42.5 296.0 Z" fill="#F9A8D4" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="320" cy="300" r="12" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="300" cy="312" rx="14" ry="8" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="282" cy="322" rx="11" ry="7" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="266" cy="330" rx="8" ry="5" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="250" y="120" width="34" height="16" fill="#CBD5E1" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="216" y="122" width="30" height="12" fill="#2563EB" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="288" y="122" width="30" height="12" fill="#2563EB" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="267" cy="112" r="7" fill="#F9A8D4" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="140" cy="250" rx="16" ry="10" fill="#D97706" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="250" cy="300" rx="20" ry="14" fill="#D97706" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="90" cy="360" rx="14" ry="8" fill="#D97706" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="170,130 200,62 230,130" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="182,100 218,100 212,116 188,116" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="176,118 224,118 220,130 180,130" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="170" y="130" width="60" height="150" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="170" y="165" width="60" height="14" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="170" y="200" width="60" height="14" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="170" y="235" width="60" height="14" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="200" cy="160" r="20" fill="#CBD5E1" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="200" cy="160" r="13" fill="#2563EB" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="195" cy="155" r="4" fill="#FFFFFF" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
+  <rect x="188" y="215" width="24" height="34" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="208" cy="232" r="3" fill="#1F2937" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
+  <circle cx="178" cy="145" r="5" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="178" cy="190" r="5" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="178" cy="215" r="5" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="178" cy="260" r="5" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="222" cy="145" r="5" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="222" cy="190" r="5" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="222" cy="215" r="5" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="222" cy="260" r="5" fill="#94A3B8" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="170,240 130,300 170,285" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="164,252 146,284 164,276" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="230,240 270,300 230,285" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="236,252 254,284 236,276" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="200" cy="282" rx="32" ry="8" fill="#CBD5E1" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="185,280 215,280 200,340" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="190,280 210,280 200,325" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="194,280 206,280 200,310" fill="#7C3AED" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="170" cy="332" r="14" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="200" cy="346" r="16" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="230" cy="332" r="14" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="200" cy="362" r="12" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="150" cy="350" r="10" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="250" cy="350" r="10" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="140" y="200" width="18" height="70" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="140,200 149,182 158,200" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="143,270 155,270 149,296" fill="#7C3AED" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="242" y="200" width="18" height="70" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="242,200 251,182 260,200" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="245,270 257,270 251,296" fill="#7C3AED" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
 </svg>
