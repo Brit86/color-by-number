@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "flower-001",
+  "version": 1,
+  "title": "Flower",
+  "description": "A cheerful flower in a pot.",
+  "category": "Flowers",
+  "tags": [
+    "flower",
+    "plant",
+    "nature"
+  ],
+  "difficulty": "easy",
+  "thumbnail": "thumbnail.svg",
+  "artwork": "canvas.svg",
+  "palette": [
+    {
+      "number": 1,
+      "color": "#F472B6",
+      "name": "Pink"
+    },
+    {
+      "number": 2,
+      "color": "#F2C230",
+      "name": "Sunny yellow"
+    },
+    {
+      "number": 3,
+      "color": "#22C55E",
+      "name": "Green"
+    },
+    {
+      "number": 4,
+      "color": "#F97316",
+      "name": "Orange"
+    },
+    {
+      "number": 5,
+      "color": "#A855F7",
+      "name": "Purple"
+    }
+  ],
+  "minimumGameVersion": "1.0.0",
+  "sizeBytes": 5690,
+  "updatedAt": "2026-11-24T00:00:00Z",
+  "sha256": "399730d3591ecc48d3d222ada62f688cca94852e9641e18bfb6a0161759da1a0",
+  "featured": false,
+  "ageBand": "3-6",
+  "sortOrder": 40
+}
