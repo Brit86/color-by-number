@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Cat">
+  <path d="M 285 330 Q 350 300 345 250 Q 340 230 325 235 Q 330 280 280 305 Z" fill="#F59E0B" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="200" cy="330" rx="95" ry="55" fill="#F59E0B" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="200" cy="340" rx="45" ry="28" fill="#FDE68A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="150" cy="375" rx="28" ry="16" fill="#FDE68A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="250" cy="375" rx="28" ry="16" fill="#FDE68A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="200" cy="170" r="90" fill="#F59E0B" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="125,105 155,35 190,100" fill="#F59E0B" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="275,105 245,35 210,100" fill="#F59E0B" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="140,95 158,55 175,95" fill="#F9A8D4" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
+  <polygon points="260,95 242,55 225,95" fill="#F9A8D4" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
+  <ellipse cx="200" cy="215" rx="55" ry="32" fill="#FDE68A" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="185,195 215,195 200,212" fill="#F9A8D4" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="165" cy="155" rx="14" ry="18" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="235" cy="155" rx="14" ry="18" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+</svg>

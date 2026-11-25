@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "cat-001",
+  "version": 1,
+  "title": "Cat",
+  "description": "A friendly orange cat sitting up.",
+  "category": "Animals",
+  "tags": [
+    "cat",
+    "animal",
+    "pet"
+  ],
+  "difficulty": "easy",
+  "thumbnail": "thumbnail.svg",
+  "artwork": "canvas.svg",
+  "palette": [
+    {
+      "number": 1,
+      "color": "#F59E0B",
+      "name": "Orange"
+    },
+    {
+      "number": 2,
+      "color": "#FDE68A",
+      "name": "Cream"
+    },
+    {
+      "number": 3,
+      "color": "#F9A8D4",
+      "name": "Pink"
+    },
+    {
+      "number": 4,
+      "color": "#3B82F6",
+      "name": "Blue"
+    }
+  ],
+  "minimumGameVersion": "1.0.0",
+  "sizeBytes": 6190,
+  "updatedAt": "2026-11-24T00:00:00Z",
+  "sha256": "1290c8fae151367faa660b6cf6ea5765147df2e8826b5c79b91af3c35ca5fea3",
+  "featured": false,
+  "ageBand": "3-6",
+  "sortOrder": 10
+}
