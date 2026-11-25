@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "dino-001",
-  "version": 1,
+  "version": 2,
   "title": "Friendly T-Rex",
   "description": "A smiling T-Rex in the jungle.",
   "category": "Dinosaurs",
@@ -9,36 +9,86 @@
     "dinosaur",
     "animal"
   ],
-  "difficulty": "easy",
+  "difficulty": "hard",
   "thumbnail": "thumbnail.svg",
   "artwork": "canvas.svg",
   "palette": [
     {
       "number": 1,
-      "color": "#72B84A",
-      "name": "Leaf green"
+      "color": "#16A34A",
+      "name": "Green"
     },
     {
       "number": 2,
-      "color": "#F2C230",
-      "name": "Sunny yellow"
+      "color": "#166534",
+      "name": "Dark green"
     },
     {
       "number": 3,
-      "color": "#FB923C",
-      "name": "Orange"
+      "color": "#A3E635",
+      "name": "Lime"
     },
     {
       "number": 4,
+      "color": "#FEF3C7",
+      "name": "Cream"
+    },
+    {
+      "number": 5,
+      "color": "#92400E",
+      "name": "Brown"
+    },
+    {
+      "number": 6,
+      "color": "#FACC15",
+      "name": "Yellow"
+    },
+    {
+      "number": 7,
+      "color": "#EF4444",
+      "name": "Red"
+    },
+    {
+      "number": 8,
+      "color": "#F97316",
+      "name": "Orange"
+    },
+    {
+      "number": 9,
       "color": "#3B82F6",
       "name": "Blue"
+    },
+    {
+      "number": 10,
+      "color": "#7DD3FC",
+      "name": "Sky blue"
+    },
+    {
+      "number": 11,
+      "color": "#F9A8D4",
+      "name": "Pink"
+    },
+    {
+      "number": 12,
+      "color": "#8B5CF6",
+      "name": "Purple"
+    },
+    {
+      "number": 13,
+      "color": "#14B8A6",
+      "name": "Teal"
+    },
+    {
+      "number": 14,
+      "color": "#9CA3AF",
+      "name": "Grey"
     }
   ],
   "minimumGameVersion": "1.0.0",
-  "sizeBytes": 7314,
+  "sizeBytes": 52209,
   "updatedAt": "2026-11-24T00:00:00Z",
-  "sha256": "19fe59522077122a287c0be6adde57175d7956981a094e79dae4ba59bca15386",
+  "sha256": "4dab02ff11a95015481b52148731f8ab48ffbe677e6689ef98408abdc484c9b0",
   "featured": true,
-  "ageBand": "3-6",
+  "ageBand": "adult",
   "sortOrder": 20
 }

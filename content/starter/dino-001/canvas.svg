@@ -1,37 +1,223 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Friendly T-Rex">
   <g>
-  <path d="M 290 230 Q 370 220 375 270 Q 370 300 320 295 Q 300 260 290 250 Z" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r10" data-number="1" class="region" />
-  <polygon points="170,190 190,140 205,190" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r6" data-number="3" class="region" />
-  <polygon points="210,185 235,135 250,185" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r7" data-number="3" class="region" />
-  <polygon points="255,195 275,150 290,195" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r8" data-number="3" class="region" />
-  <ellipse cx="210" cy="250" rx="95" ry="70" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r1" data-number="1" class="region" />
-  <ellipse cx="215" cy="285" rx="60" ry="35" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r9" data-number="2" class="region" />
-  <circle cx="130" cy="150" r="60" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r2" data-number="1" class="region" />
-  <ellipse cx="95" cy="165" rx="45" ry="28" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r3" data-number="2" class="region" />
-  <ellipse cx="110" cy="195" rx="35" ry="18" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r4" data-number="2" class="region" />
-  <polygon points="105,185 115,185 110,195" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" />
-  <circle cx="125" cy="135" r="14" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r5" data-number="4" class="region" />
-  <ellipse cx="150" cy="260" rx="14" ry="20" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r15" data-number="1" class="region" />
-  <ellipse cx="185" cy="330" rx="25" ry="30" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r11" data-number="1" class="region" />
-  <ellipse cx="180" cy="360" rx="30" ry="12" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r12" data-number="2" class="region" />
-  <ellipse cx="255" cy="330" rx="28" ry="32" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r13" data-number="1" class="region" />
-  <ellipse cx="255" cy="362" rx="32" ry="12" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r14" data-number="2" class="region" />
+  <rect x="0" y="0" width="400" height="210" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r1" data-number="10" class="region" />
+  <circle cx="52" cy="52" r="24" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r2" data-number="6" class="region" />
+  <polygon points="95.0,52.0 81.27692347991817,45.45311130757392 81.27692347991817,58.54688869242608" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r3" data-number="6" class="region" />
+  <polygon points="73.5,89.23909236273086 72.30823366334916,74.0811151320492 60.96868981656902,80.62800382447529" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r4" data-number="6" class="region" />
+  <polygon points="30.50000000000001,89.23909236273087 43.031310183430996,80.62800382447529 31.69176633665085,74.0811151320492" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r5" data-number="6" class="region" />
+  <polygon points="9.0,52.00000000000001 22.72307652008184,58.54688869242609 22.723076520081836,45.45311130757392" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r6" data-number="6" class="region" />
+  <polygon points="30.499999999999982,14.760907637269149 31.691766336650833,29.918884867950812 43.03131018343097,23.371996175524725" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r7" data-number="6" class="region" />
+  <polygon points="73.5,14.760907637269142 60.968689816569025,23.37199617552472 72.30823366334914,29.918884867950798" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r8" data-number="6" class="region" />
+  <circle cx="126.0" cy="46.0" r="18" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r9" data-number="4" class="region" />
+  <circle cx="150.0" cy="36.0" r="24" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r10" data-number="4" class="region" />
+  <circle cx="174.0" cy="46.0" r="17" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r11" data-number="4" class="region" />
+  <circle cx="226.0" cy="34.0" r="18" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r12" data-number="4" class="region" />
+  <circle cx="250.0" cy="24.0" r="24" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r13" data-number="4" class="region" />
+  <circle cx="274.0" cy="34.0" r="17" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r14" data-number="4" class="region" />
+  <polygon points="300,180 350,60 400,180" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r15" data-number="5" class="region" />
+  <ellipse cx="350" cy="72" rx="18" ry="8" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r16" data-number="7" class="region" />
+  <polygon points="330,78 338,78 342,130 332,130" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r17" data-number="7" class="region" />
+  <polygon points="348,78 356,78 360,130 350,130" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r18" data-number="7" class="region" />
+  <polygon points="366,78 374,78 378,130 368,130" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r19" data-number="7" class="region" />
+  <circle cx="338" cy="42" r="12" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r20" data-number="2" class="region" />
+  <circle cx="352" cy="32" r="15" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r21" data-number="2" class="region" />
+  <circle cx="366" cy="44" r="11" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r22" data-number="2" class="region" />
+  <ellipse cx="100" cy="210" rx="160" ry="40" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r23" data-number="2" class="region" />
+  <ellipse cx="300" cy="225" rx="170" ry="45" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r24" data-number="3" class="region" />
+  <rect x="28" y="150" width="16" height="90" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r25" data-number="5" class="region" />
+  <circle cx="20" cy="140" r="22" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r26" data-number="2" class="region" />
+  <circle cx="36" cy="120" r="26" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r27" data-number="2" class="region" />
+  <circle cx="55" cy="142" r="20" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r28" data-number="2" class="region" />
+  <rect x="368" y="160" width="14" height="80" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r29" data-number="5" class="region" />
+  <circle cx="360" cy="150" r="20" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r30" data-number="3" class="region" />
+  <circle cx="378" cy="132" r="24" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r31" data-number="3" class="region" />
+  <circle cx="392" cy="152" r="18" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r32" data-number="3" class="region" />
+  <ellipse cx="58" cy="330" rx="5" ry="13" transform="rotate(-40 58 330)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r33" data-number="2" class="region" />
+  <ellipse cx="342" cy="336" rx="5" ry="13" transform="rotate(40 342 336)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r34" data-number="13" class="region" />
+  <ellipse cx="63" cy="316" rx="5" ry="13" transform="rotate(-40 63 316)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r35" data-number="2" class="region" />
+  <ellipse cx="337" cy="322" rx="5" ry="13" transform="rotate(40 337 322)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r36" data-number="13" class="region" />
+  <ellipse cx="68" cy="302" rx="5" ry="13" transform="rotate(-40 68 302)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r37" data-number="2" class="region" />
+  <ellipse cx="332" cy="308" rx="5" ry="13" transform="rotate(40 332 308)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r38" data-number="13" class="region" />
+  <ellipse cx="73" cy="288" rx="5" ry="13" transform="rotate(-40 73 288)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r39" data-number="2" class="region" />
+  <ellipse cx="327" cy="294" rx="5" ry="13" transform="rotate(40 327 294)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r40" data-number="13" class="region" />
+  <ellipse cx="78" cy="274" rx="5" ry="13" transform="rotate(-40 78 274)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r41" data-number="2" class="region" />
+  <ellipse cx="322" cy="280" rx="5" ry="13" transform="rotate(40 322 280)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r42" data-number="13" class="region" />
+  <ellipse cx="83" cy="260" rx="5" ry="13" transform="rotate(-40 83 260)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r43" data-number="2" class="region" />
+  <ellipse cx="317" cy="266" rx="5" ry="13" transform="rotate(40 317 266)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r44" data-number="13" class="region" />
+  <ellipse cx="90" cy="352" rx="14" ry="9" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r45" data-number="14" class="region" />
+  <ellipse cx="130" cy="360" rx="11" ry="6" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r46" data-number="14" class="region" />
+  <ellipse cx="310" cy="356" rx="12" ry="7" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r47" data-number="14" class="region" />
+  <ellipse cx="30" cy="287" rx="7" ry="12" transform="rotate(0 30 287)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r48" data-number="11" class="region" />
+  <ellipse cx="42" cy="296" rx="7" ry="12" transform="rotate(72 42 296)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r49" data-number="11" class="region" />
+  <ellipse cx="38" cy="311" rx="7" ry="12" transform="rotate(144 38 311)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r50" data-number="11" class="region" />
+  <ellipse cx="22" cy="311" rx="7" ry="12" transform="rotate(216 22 311)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r51" data-number="11" class="region" />
+  <ellipse cx="18" cy="296" rx="7" ry="12" transform="rotate(288 18 296)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r52" data-number="11" class="region" />
+  <circle cx="30" cy="300" r="6" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r53" data-number="6" class="region" />
+  <ellipse cx="372" cy="287" rx="7" ry="12" transform="rotate(0 372 287)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r54" data-number="11" class="region" />
+  <ellipse cx="384" cy="296" rx="7" ry="12" transform="rotate(72 384 296)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r55" data-number="11" class="region" />
+  <ellipse cx="380" cy="311" rx="7" ry="12" transform="rotate(144 380 311)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r56" data-number="11" class="region" />
+  <ellipse cx="364" cy="311" rx="7" ry="12" transform="rotate(216 364 311)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r57" data-number="11" class="region" />
+  <ellipse cx="360" cy="296" rx="7" ry="12" transform="rotate(288 360 296)" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r58" data-number="11" class="region" />
+  <circle cx="372" cy="300" r="6" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r59" data-number="6" class="region" />
+  <rect x="0" y="340" width="400" height="60" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r60" data-number="3" class="region" />
+  <ellipse cx="190" cy="290" rx="88" ry="58" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r61" data-number="1" class="region" />
+  <path d="M 112.9 262.0 L 267.1 262.0 A 88 58 0 0 1 274.6 274.0 L 105.4 274.0 A 88 58 0 0 1 112.9 262.0 Z" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r62" data-number="4" class="region" />
+  <path d="M 103.9 278.0 L 276.1 278.0 A 88 58 0 0 1 278.0 290.0 L 102.0 290.0 A 88 58 0 0 1 103.9 278.0 Z" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r63" data-number="4" class="region" />
+  <path d="M 102.2 294.0 L 277.8 294.0 A 88 58 0 0 1 274.6 306.0 L 105.4 306.0 A 88 58 0 0 1 102.2 294.0 Z" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r64" data-number="4" class="region" />
+  <path d="M 107.4 310.0 L 272.6 310.0 A 88 58 0 0 1 263.4 322.0 L 116.6 322.0 A 88 58 0 0 1 107.4 310.0 Z" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r65" data-number="4" class="region" />
+  <path d="M 121.0 326.0 L 259.0 326.0 A 88 58 0 0 1 239.4 338.0 L 140.6 338.0 A 88 58 0 0 1 121.0 326.0 Z" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r66" data-number="4" class="region" />
+  <path d="M 115.0 259.7 A 88 58 0 0 0 115.0 320.3 L 129.0 331.8 A 88 58 0 0 0 129.0 248.2 Z" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r67" data-number="2" class="region" />
+  <path d="M 135.0 244.7 A 88 58 0 0 0 135.0 335.3 L 149.0 341.3 A 88 58 0 0 0 149.0 238.7 Z" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r68" data-number="2" class="region" />
+  <path d="M 155.0 236.8 A 88 58 0 0 0 155.0 343.2 L 169.0 346.3 A 88 58 0 0 0 169.0 233.7 Z" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r69" data-number="2" class="region" />
+  <path d="M 175.0 232.8 A 88 58 0 0 0 175.0 347.2 L 189.0 348.0 A 88 58 0 0 0 189.0 232.0 Z" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r70" data-number="2" class="region" />
+  <ellipse cx="272" cy="300" rx="26" ry="20" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r71" data-number="1" class="region" />
+  <ellipse cx="296" cy="290" rx="22" ry="17" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r72" data-number="2" class="region" />
+  <ellipse cx="318" cy="278" rx="18" ry="14" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r73" data-number="1" class="region" />
+  <ellipse cx="336" cy="264" rx="14" ry="11" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r74" data-number="2" class="region" />
+  <polygon points="344,252 360,258 346,268" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r75" data-number="2" class="region" />
+  <ellipse cx="140" cy="240" rx="30" ry="26" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r76" data-number="1" class="region" />
+  <circle cx="128" cy="178" r="62" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r77" data-number="1" class="region" />
+  <polygon points="170,150 245,158 240,185 172,182" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r78" data-number="1" class="region" />
+  <polygon points="175,182 240,185 235,198 178,195" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r79" data-number="4" class="region" />
+  <polygon points="180,186 190,186 185,196" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r80" data-number="9" class="region" />
+  <polygon points="195,186 205,186 200,196" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r81" data-number="9" class="region" />
+  <polygon points="210,186 220,186 215,196" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r82" data-number="9" class="region" />
+  <polygon points="225,186 235,186 230,196" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r83" data-number="9" class="region" />
+  <polygon points="187,196 197,196 192,188" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r84" data-number="9" class="region" />
+  <polygon points="202,196 212,196 207,188" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r85" data-number="9" class="region" />
+  <polygon points="217,196 227,196 222,188" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r86" data-number="9" class="region" />
+  <ellipse cx="120" cy="160" rx="11" ry="14" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r87" data-number="9" class="region" />
+  <ellipse cx="120" cy="160" rx="4" ry="7" fill="#1F2937" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" />
+  <ellipse cx="120" cy="140" rx="16" ry="7" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r88" data-number="2" class="region" />
+  <circle cx="232" cy="166" r="4" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r89" data-number="12" class="region" />
+  <ellipse cx="150" cy="270" rx="10" ry="22" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r90" data-number="1" class="region" />
+  <ellipse cx="146" cy="292" rx="5" ry="9" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r91" data-number="1" class="region" />
+  <ellipse cx="156" cy="292" rx="5" ry="9" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r92" data-number="1" class="region" />
+  <ellipse cx="180" cy="340" rx="30" ry="24" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r93" data-number="1" class="region" />
+  <ellipse cx="185" cy="368" rx="16" ry="18" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r94" data-number="1" class="region" />
+  <ellipse cx="190" cy="388" rx="24" ry="10" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r95" data-number="4" class="region" />
+  <ellipse cx="178" cy="390" rx="6" ry="8" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r96" data-number="4" class="region" />
+  <ellipse cx="190" cy="390" rx="6" ry="8" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r97" data-number="4" class="region" />
+  <ellipse cx="202" cy="390" rx="6" ry="8" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r98" data-number="4" class="region" />
+  <ellipse cx="235" cy="338" rx="28" ry="22" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r99" data-number="1" class="region" />
+  <ellipse cx="240" cy="384" rx="22" ry="10" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r100" data-number="4" class="region" />
+  <ellipse cx="230" cy="386" rx="6" ry="8" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r101" data-number="4" class="region" />
+  <ellipse cx="240" cy="386" rx="6" ry="8" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r102" data-number="4" class="region" />
+  <ellipse cx="250" cy="386" rx="6" ry="8" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r103" data-number="4" class="region" />
+  <polygon points="112,240 120,222 128,240" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r104" data-number="8" class="region" />
+  <polygon points="137,240 145,222 153,240" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r105" data-number="8" class="region" />
+  <polygon points="162,240 170,222 178,240" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r106" data-number="8" class="region" />
+  <polygon points="187,240 195,222 203,240" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r107" data-number="8" class="region" />
+  <polygon points="212,240 220,222 228,240" fill="#FFFFFF" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" id="r108" data-number="8" class="region" />
   </g>
   <g class="labels">
-    <text class="num-label" x="340" y="262" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
-    <text class="num-label" x="188" y="173" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">3</text>
-    <text class="num-label" x="232" y="168" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">3</text>
-    <text class="num-label" x="273" y="180" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">3</text>
-    <text class="num-label" x="240" y="230" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
-    <text class="num-label" x="215" y="290" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
-    <text class="num-label" x="165" y="115" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
-    <text class="num-label" x="95" y="165" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
-    <text class="num-label" x="110" y="198" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
-    <text class="num-label" x="125" y="135" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
-    <text class="num-label" x="150" y="262" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
-    <text class="num-label" x="185" y="330" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
-    <text class="num-label" x="180" y="362" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
-    <text class="num-label" x="255" y="330" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
-    <text class="num-label" x="255" y="364" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="200" y="90" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">10</text>
+    <text class="num-label" x="52" y="52" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">6</text>
+    <text class="num-label" x="86" y="52" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">6</text>
+    <text class="num-label" x="69" y="81" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">6</text>
+    <text class="num-label" x="35" y="81" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">6</text>
+    <text class="num-label" x="18" y="52" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">6</text>
+    <text class="num-label" x="35" y="23" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">6</text>
+    <text class="num-label" x="69" y="23" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">6</text>
+    <text class="num-label" x="126" y="46" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="150" y="36" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="174" y="46" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="226" y="34" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="250" y="24" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="274" y="34" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="350" y="140" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">5</text>
+    <text class="num-label" x="350" y="72" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">7</text>
+    <text class="num-label" x="336" y="100" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">7</text>
+    <text class="num-label" x="354" y="100" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">7</text>
+    <text class="num-label" x="372" y="100" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">7</text>
+    <text class="num-label" x="338" y="42" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="352" y="32" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="366" y="44" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="100" y="200" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="300" y="214" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">3</text>
+    <text class="num-label" x="36" y="195" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">5</text>
+    <text class="num-label" x="20" y="140" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="36" y="120" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="55" y="142" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="375" y="200" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">5</text>
+    <text class="num-label" x="360" y="150" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">3</text>
+    <text class="num-label" x="378" y="132" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">3</text>
+    <text class="num-label" x="392" y="152" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">3</text>
+    <text class="num-label" x="58" y="330" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="342" y="336" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">13</text>
+    <text class="num-label" x="63" y="316" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="337" y="322" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">13</text>
+    <text class="num-label" x="68" y="302" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="332" y="308" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">13</text>
+    <text class="num-label" x="73" y="288" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="327" y="294" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">13</text>
+    <text class="num-label" x="78" y="274" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="322" y="280" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">13</text>
+    <text class="num-label" x="83" y="260" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="317" y="266" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">13</text>
+    <text class="num-label" x="90" y="352" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">14</text>
+    <text class="num-label" x="130" y="360" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">14</text>
+    <text class="num-label" x="310" y="356" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">14</text>
+    <text class="num-label" x="30" y="287" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">11</text>
+    <text class="num-label" x="42" y="296" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">11</text>
+    <text class="num-label" x="38" y="311" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">11</text>
+    <text class="num-label" x="22" y="311" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">11</text>
+    <text class="num-label" x="18" y="296" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">11</text>
+    <text class="num-label" x="30" y="300" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">6</text>
+    <text class="num-label" x="372" y="287" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">11</text>
+    <text class="num-label" x="384" y="296" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">11</text>
+    <text class="num-label" x="380" y="311" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">11</text>
+    <text class="num-label" x="364" y="311" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">11</text>
+    <text class="num-label" x="360" y="296" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">11</text>
+    <text class="num-label" x="372" y="300" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">6</text>
+    <text class="num-label" x="200" y="368" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">3</text>
+    <text class="num-label" x="190" y="262" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="190" y="268" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="190" y="284" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="190" y="300" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="190" y="316" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="190" y="332" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="122" y="246" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="142" y="246" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="162" y="246" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="182" y="246" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="272" y="300" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="296" y="290" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="318" y="278" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="336" y="264" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="350" y="259" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="140" y="240" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="128" y="168" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="205" y="168" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="206" y="190" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="185" y="190" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">9</text>
+    <text class="num-label" x="200" y="190" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">9</text>
+    <text class="num-label" x="215" y="190" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">9</text>
+    <text class="num-label" x="230" y="190" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">9</text>
+    <text class="num-label" x="192" y="192" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">9</text>
+    <text class="num-label" x="207" y="192" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">9</text>
+    <text class="num-label" x="222" y="192" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">9</text>
+    <text class="num-label" x="120" y="160" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">9</text>
+    <text class="num-label" x="120" y="140" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="232" y="166" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">12</text>
+    <text class="num-label" x="150" y="270" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="146" y="292" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="156" y="292" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="180" y="340" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="185" y="368" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="190" y="388" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="178" y="390" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="190" y="390" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="202" y="390" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="235" y="338" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="240" y="384" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="230" y="386" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="240" y="386" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="250" y="386" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="120" y="233" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">8</text>
+    <text class="num-label" x="145" y="233" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">8</text>
+    <text class="num-label" x="170" y="233" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">8</text>
+    <text class="num-label" x="195" y="233" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">8</text>
+    <text class="num-label" x="220" y="233" font-size="10" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">8</text>
   </g>
 </svg>
