@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "cat-001",
-  "version": 1,
+  "version": 2,
   "title": "Cat",
   "description": "A friendly orange cat sitting up.",
   "category": "Animals",
@@ -10,7 +10,7 @@
     "animal",
     "pet"
   ],
-  "difficulty": "easy",
+  "difficulty": "medium",
   "thumbnail": "thumbnail.svg",
   "artwork": "canvas.svg",
   "palette": [
@@ -33,13 +33,58 @@
       "number": 4,
       "color": "#3B82F6",
       "name": "Blue"
+    },
+    {
+      "number": 5,
+      "color": "#22C55E",
+      "name": "Leaf green"
+    },
+    {
+      "number": 6,
+      "color": "#92400E",
+      "name": "Brown"
+    },
+    {
+      "number": 7,
+      "color": "#FACC15",
+      "name": "Yellow"
+    },
+    {
+      "number": 8,
+      "color": "#9CA3AF",
+      "name": "Grey"
+    },
+    {
+      "number": 9,
+      "color": "#EF4444",
+      "name": "Red"
+    },
+    {
+      "number": 10,
+      "color": "#8B5CF6",
+      "name": "Purple"
+    },
+    {
+      "number": 11,
+      "color": "#14B8A6",
+      "name": "Teal"
+    },
+    {
+      "number": 12,
+      "color": "#78350F",
+      "name": "Dark brown"
+    },
+    {
+      "number": 13,
+      "color": "#7DD3FC",
+      "name": "Sky blue"
     }
   ],
   "minimumGameVersion": "1.0.0",
-  "sizeBytes": 6190,
+  "sizeBytes": 46155,
   "updatedAt": "2026-11-24T00:00:00Z",
-  "sha256": "1290c8fae151367faa660b6cf6ea5765147df2e8826b5c79b91af3c35ca5fea3",
+  "sha256": "b48e0c9433aeaa8afa4389f489751dc0a117afa7a6aa8b6803fe307f88148f32",
   "featured": false,
-  "ageBand": "3-6",
+  "ageBand": "adult",
   "sortOrder": 10
 }
