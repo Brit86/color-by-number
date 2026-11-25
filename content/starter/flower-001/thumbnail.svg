@@ -1,13 +1,101 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Flower">
-  <rect x="192" y="180" width="16" height="130" rx="8" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <ellipse cx="150" cy="250" rx="35" ry="16" transform="rotate(-30 150 250)" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <ellipse cx="250" cy="250" rx="35" ry="16" transform="rotate(30 250 250)" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <ellipse cx="200" cy="95" rx="26" ry="50" transform="rotate(0 200 95)" fill="#F472B6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <ellipse cx="255" cy="132" rx="26" ry="50" transform="rotate(72 255 132)" fill="#F472B6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <ellipse cx="232" cy="198" rx="26" ry="50" transform="rotate(144 232 198)" fill="#F472B6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <ellipse cx="168" cy="198" rx="26" ry="50" transform="rotate(216 168 198)" fill="#F472B6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <ellipse cx="145" cy="132" rx="26" ry="50" transform="rotate(288 145 132)" fill="#F472B6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <circle cx="200" cy="150" r="32" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <path d="M 150 310 L 250 310 L 235 375 L 165 375 Z" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
-  <rect x="140" y="295" width="120" height="22" rx="8" fill="#A855F7" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="0" y="0" width="400" height="220" fill="#7DD3FC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="345" cy="55" r="24" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="388.0,55.0 374.27692347991814,48.45311130757392 374.27692347991814,61.54688869242608" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="366.5,92.23909236273086 365.30823366334914,77.0811151320492 353.968689816569,83.62800382447529" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="323.5,92.23909236273087 336.031310183431,83.62800382447529 324.69176633665086,77.0811151320492" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="302.0,55.00000000000001 315.72307652008186,61.54688869242609 315.72307652008186,48.45311130757392" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="323.5,17.76090763726915 324.69176633665086,32.91888486795081 336.03131018343095,26.371996175524725" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="366.5,17.760907637269142 353.968689816569,26.37199617552472 365.30823366334914,32.918884867950794" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="56.0" cy="50.0" r="18" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="80.0" cy="40.0" r="24" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="104.0" cy="50.0" r="17" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="216.0" cy="40.0" r="18" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="240.0" cy="30.0" r="24" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="264.0" cy="40.0" r="17" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="110" cy="215" rx="150" ry="42" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="300" cy="225" rx="160" ry="44" fill="#166534" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="0" y="240" width="400" height="14" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="0" y="262" width="400" height="14" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="30" y="232" width="10" height="52" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="120" y="232" width="10" height="52" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="210" y="232" width="10" height="52" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="300" y="232" width="10" height="52" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="380" y="232" width="10" height="52" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="0" y="300" width="400" height="44" fill="#92400E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="0" y="344" width="400" height="56" fill="#92400E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="35,342 45,342 40,322" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="105,342 115,342 110,322" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="175,342 185,342 180,322" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="245,342 255,342 250,322" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="315,342 325,342 320,322" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="370,342 380,342 375,322" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="60" cy="366" rx="9" ry="6" fill="#14B8A6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="140" cy="378" rx="7" ry="4" fill="#14B8A6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="230" cy="364" rx="8" ry="5" fill="#14B8A6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="310" cy="380" rx="7" ry="4" fill="#14B8A6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="360" cy="362" rx="9" ry="6" fill="#14B8A6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="258" cy="140" rx="15" ry="32" transform="rotate(90 258 140)" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="250" cy="169" rx="15" ry="32" transform="rotate(120 250 169)" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="229" cy="190" rx="15" ry="32" transform="rotate(150 229 190)" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="200" cy="198" rx="15" ry="32" transform="rotate(180 200 198)" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="171" cy="190" rx="15" ry="32" transform="rotate(210 171 190)" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="150" cy="169" rx="15" ry="32" transform="rotate(240 150 169)" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="142" cy="140" rx="15" ry="32" transform="rotate(270 142 140)" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="150" cy="111" rx="15" ry="32" transform="rotate(300 150 111)" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="171" cy="90" rx="15" ry="32" transform="rotate(330 171 90)" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="200" cy="82" rx="15" ry="32" transform="rotate(360 200 82)" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="229" cy="90" rx="15" ry="32" transform="rotate(390 229 90)" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="250" cy="111" rx="15" ry="32" transform="rotate(420 250 111)" fill="#F97316" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="200" cy="140" r="30" fill="#92400E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="218" cy="147" r="4" fill="#FEF3C7" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="207" cy="157" r="4" fill="#FEF3C7" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="193" cy="158" r="4" fill="#FEF3C7" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="183" cy="147" r="4" fill="#FEF3C7" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="182" cy="133" r="4" fill="#FEF3C7" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="193" cy="123" r="4" fill="#FEF3C7" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="207" cy="122" r="4" fill="#FEF3C7" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="217" cy="133" r="4" fill="#FEF3C7" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="194" y="180" width="12" height="40" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="194" y="220" width="12" height="40" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="194" y="260" width="12" height="40" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="150" cy="240" rx="34" ry="16" transform="rotate(-30 150 240)" fill="#166534" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="128" y="236" width="40" height="5" fill="#166534" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="140" y="222" width="5" height="34" fill="#166534" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="250" cy="260" rx="34" ry="16" transform="rotate(30 250 260)" fill="#166534" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="232" y="256" width="40" height="5" fill="#166534" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="255" y="244" width="5" height="34" fill="#166534" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="70" cy="286" rx="6" ry="11" transform="rotate(0 70 286)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="82" cy="293" rx="6" ry="11" transform="rotate(60 82 293)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="82" cy="307" rx="6" ry="11" transform="rotate(120 82 307)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="70" cy="314" rx="6" ry="11" transform="rotate(180 70 314)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="58" cy="307" rx="6" ry="11" transform="rotate(240 58 307)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="58" cy="293" rx="6" ry="11" transform="rotate(300 58 293)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="70" cy="300" r="6" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="330" cy="296" rx="6" ry="11" transform="rotate(0 330 296)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="342" cy="303" rx="6" ry="11" transform="rotate(60 342 303)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="342" cy="317" rx="6" ry="11" transform="rotate(120 342 317)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="330" cy="324" rx="6" ry="11" transform="rotate(180 330 324)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="318" cy="317" rx="6" ry="11" transform="rotate(240 318 317)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="318" cy="303" rx="6" ry="11" transform="rotate(300 318 303)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="330" cy="310" r="6" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="120" cy="326" rx="6" ry="11" transform="rotate(0 120 326)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="132" cy="333" rx="6" ry="11" transform="rotate(60 132 333)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="132" cy="347" rx="6" ry="11" transform="rotate(120 132 347)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="120" cy="354" rx="6" ry="11" transform="rotate(180 120 354)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="108" cy="347" rx="6" ry="11" transform="rotate(240 108 347)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="108" cy="333" rx="6" ry="11" transform="rotate(300 108 333)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="120" cy="340" r="6" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="266,318 268,342 292,342 294,318 287,326 280,318 273,326" fill="#EC4899" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="277" y="342" width="6" height="34" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="264" cy="360" rx="12" ry="6" transform="rotate(-30 264 360)" fill="#166534" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="186,348 188,372 212,372 214,348 207,356 200,348 193,356" fill="#8B5CF6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="197" y="372" width="6" height="34" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="184" cy="390" rx="12" ry="6" transform="rotate(-30 184 390)" fill="#166534" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="296" cy="118" rx="12" ry="9" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="304" cy="118" rx="6" ry="9" fill="#FEF3C7" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="310" cy="118" rx="6" ry="9" fill="#FACC15" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="292" cy="106" rx="9" ry="6" transform="rotate(-30 292 106)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="304" cy="106" rx="9" ry="6" transform="rotate(30 304 106)" fill="#F8FAFC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="318" cy="118" r="6" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
 </svg>

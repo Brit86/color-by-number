@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "flower-001",
-  "version": 1,
+  "version": 2,
   "title": "Flower",
   "description": "A cheerful flower in a pot.",
   "category": "Flowers",
@@ -10,41 +10,81 @@
     "plant",
     "nature"
   ],
-  "difficulty": "easy",
+  "difficulty": "medium",
   "thumbnail": "thumbnail.svg",
   "artwork": "canvas.svg",
   "palette": [
     {
       "number": 1,
-      "color": "#F472B6",
-      "name": "Pink"
+      "color": "#FACC15",
+      "name": "Yellow"
     },
     {
       "number": 2,
-      "color": "#F2C230",
-      "name": "Sunny yellow"
-    },
-    {
-      "number": 3,
-      "color": "#22C55E",
-      "name": "Green"
-    },
-    {
-      "number": 4,
       "color": "#F97316",
       "name": "Orange"
     },
     {
+      "number": 3,
+      "color": "#92400E",
+      "name": "Brown"
+    },
+    {
+      "number": 4,
+      "color": "#22C55E",
+      "name": "Leaf green"
+    },
+    {
       "number": 5,
-      "color": "#A855F7",
+      "color": "#166534",
+      "name": "Dark green"
+    },
+    {
+      "number": 6,
+      "color": "#EC4899",
+      "name": "Pink"
+    },
+    {
+      "number": 7,
+      "color": "#8B5CF6",
       "name": "Purple"
+    },
+    {
+      "number": 8,
+      "color": "#EF4444",
+      "name": "Red"
+    },
+    {
+      "number": 9,
+      "color": "#F8FAFC",
+      "name": "White"
+    },
+    {
+      "number": 10,
+      "color": "#3B82F6",
+      "name": "Blue"
+    },
+    {
+      "number": 11,
+      "color": "#7DD3FC",
+      "name": "Sky blue"
+    },
+    {
+      "number": 12,
+      "color": "#FEF3C7",
+      "name": "Cream"
+    },
+    {
+      "number": 13,
+      "color": "#14B8A6",
+      "name": "Teal"
     }
   ],
   "minimumGameVersion": "1.0.0",
-  "sizeBytes": 5690,
+  "sizeBytes": 47819,
   "updatedAt": "2026-11-24T00:00:00Z",
-  "sha256": "399730d3591ecc48d3d222ada62f688cca94852e9641e18bfb6a0161759da1a0",
+  "sha256": "8e714c51fdae49a6543b92a530d185657229d9df42f14252bd6cd789cda61147",
   "featured": false,
-  "ageBand": "3-6",
+  "ageBand": "adult",
   "sortOrder": 40
 }
