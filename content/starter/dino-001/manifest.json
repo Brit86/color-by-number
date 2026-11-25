@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
   "id": "dino-001",
-  "version": 2,
+  "version": 3,
   "title": "Friendly T-Rex",
-  "description": "A smiling T-Rex in the jungle.",
+  "description": "A friendly T-Rex in a jungle with a volcano.",
   "category": "Dinosaurs",
   "tags": [
+    "t-rex",
     "dinosaur",
-    "animal"
+    "jungle"
   ],
   "difficulty": "hard",
   "thumbnail": "thumbnail.svg",
@@ -15,79 +16,109 @@
   "palette": [
     {
       "number": 1,
-      "color": "#16A34A",
-      "name": "Green"
+      "color": "#59934A",
+      "name": "Moss green"
     },
     {
       "number": 2,
-      "color": "#166534",
-      "name": "Dark green"
+      "color": "#69A24E",
+      "name": "Sage green"
     },
     {
       "number": 3,
-      "color": "#A3E635",
-      "name": "Lime"
+      "color": "#78B056",
+      "name": "Sage green"
     },
     {
       "number": 4,
-      "color": "#FEF3C7",
-      "name": "Cream"
+      "color": "#4B8343",
+      "name": "Moss green"
     },
     {
       "number": 5,
-      "color": "#92400E",
-      "name": "Brown"
+      "color": "#82A04C",
+      "name": "Sage green"
     },
     {
       "number": 6,
-      "color": "#FACC15",
-      "name": "Yellow"
+      "color": "#70925F",
+      "name": "Sage green"
     },
     {
       "number": 7,
-      "color": "#EF4444",
-      "name": "Red"
+      "color": "#997652",
+      "name": "Caramel"
     },
     {
       "number": 8,
-      "color": "#F97316",
-      "name": "Orange"
+      "color": "#6A8145",
+      "name": "Moss green"
     },
     {
       "number": 9,
-      "color": "#3B82F6",
-      "name": "Blue"
+      "color": "#496A35",
+      "name": "Moss green"
     },
     {
       "number": 10,
-      "color": "#7DD3FC",
-      "name": "Sky blue"
+      "color": "#90BF5F",
+      "name": "Sage green"
     },
     {
       "number": 11,
-      "color": "#F9A8D4",
-      "name": "Pink"
+      "color": "#7F5A3E",
+      "name": "Moss green"
     },
     {
       "number": 12,
-      "color": "#8B5CF6",
-      "name": "Purple"
+      "color": "#ED7B4B",
+      "name": "Coral"
     },
     {
       "number": 13,
-      "color": "#14B8A6",
-      "name": "Teal"
+      "color": "#F5E09E",
+      "name": "Pale peach"
     },
     {
       "number": 14,
-      "color": "#9CA3AF",
-      "name": "Grey"
+      "color": "#F2AC4F",
+      "name": "Coral"
+    },
+    {
+      "number": 15,
+      "color": "#C9A262",
+      "name": "Sand"
+    },
+    {
+      "number": 16,
+      "color": "#888B81",
+      "name": "Slate grey"
+    },
+    {
+      "number": 17,
+      "color": "#96CADC",
+      "name": "Baby blue"
+    },
+    {
+      "number": 18,
+      "color": "#EC7C7E",
+      "name": "Salmon"
+    },
+    {
+      "number": 19,
+      "color": "#63ACD1",
+      "name": "Dusty blue"
+    },
+    {
+      "number": 20,
+      "color": "#D0E8ED",
+      "name": "Light grey"
     }
   ],
   "minimumGameVersion": "1.0.0",
-  "sizeBytes": 52209,
-  "updatedAt": "2026-11-24T00:00:00Z",
-  "sha256": "4dab02ff11a95015481b52148731f8ab48ffbe677e6689ef98408abdc484c9b0",
+  "sizeBytes": 566885,
+  "updatedAt": "2026-11-25T00:00:00Z",
+  "sha256": "6b18f243a1b5120eb29424def7ed29a9ae83612091ddb0e403cacb06222d65ad",
   "featured": true,
   "ageBand": "adult",
   "sortOrder": 20
