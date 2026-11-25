@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Color by Number</title>
+  <meta name="description" content="A child-friendly color-by-number game that plays fully offline.">
+  <meta name="theme-color" content="#4F46E5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Color by Number">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='4' fill='%234F46E5'/%3E%3Ctext x='8' y='12' font-size='11' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'%3E1%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/app.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <header class="app-header">
+    <h1>Color by Number</h1>
+    <p id="offline-badge" class="offline-badge" hidden>Offline</p>
+  </header>
+
+  <main class="app-main">
+    <h2 id="view-title">Home</h2>
+
+    <section id="view-home" aria-label="Home">
+      <p id="status" class="status" role="status">Loading your pictures…</p>
+      <div id="gallery" class="gallery" aria-live="polite"></div>
+    </section>
+
+    <section id="view-myart" aria-label="My Art" hidden>
+      <div class="coming-soon">
+        <h3>My Art</h3>
+        <p>Your finished pictures and the ones you are still colouring will live here.</p>
+        <p>Coming in Phase 3 — the Library.</p>
+      </div>
+    </section>
+
+    <section id="view-parents" aria-label="Parent Settings" hidden>
+      <div class="coming-soon">
+        <h3>Parent Settings</h3>
+        <p>Content downloads, storage, and reset controls for parents will live here.</p>
+        <p>Coming in Phase 6 — Parent controls.</p>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="canvas-dialog" class="canvas-dialog" aria-label="Picture details">
+    <form method="dialog" class="dialog-close-row">
+      <button id="dialog-close" class="button button-secondary" value="close">Close</button>
+    </form>
+    <div id="canvas-dialog-body"></div>
+  </dialog>
+
+  <nav class="tab-bar" aria-label="Main navigation">
+    <button id="tab-home" class="tab active" aria-current="page">
+      <span class="tab-icon" aria-hidden="true">⌂</span>
+      <span class="tab-label">Home</span>
+    </button>
+    <button id="tab-myart" class="tab" aria-current="false">
+      <span class="tab-icon" aria-hidden="true">♥</span>
+      <span class="tab-label">My Art</span>
+    </button>
+    <button id="tab-parents" class="tab" aria-current="false">
+      <span class="tab-icon" aria-hidden="true">⚙</span>
+      <span class="tab-label">Parents</span>
+    </button>
+  </nav>
+</body>
+</html>
