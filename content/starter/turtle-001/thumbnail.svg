@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Turtle">
+  <polygon points="88,250 60,260 88,272" fill="#A3E635" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="275" cy="285" rx="22" ry="16" fill="#A3E635" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="125" cy="285" rx="22" ry="16" fill="#A3E635" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <path d="M 90 260 Q 90 150 200 150 Q 310 150 310 260 Z" fill="#22C55E" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="200" cy="215" rx="45" ry="40" fill="#86EFAC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="140" cy="230" rx="30" ry="25" fill="#86EFAC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <ellipse cx="260" cy="230" rx="30" ry="25" fill="#86EFAC" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <path d="M 80 260 L 320 260 L 320 275 Q 200 290 80 275 Z" fill="#15803D" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="330" cy="235" r="28" fill="#A3E635" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="338" cy="228" r="6" fill="#1F2937" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
+</svg>

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "turtle-001",
+  "version": 1,
+  "title": "Turtle",
+  "description": "A slow and steady little turtle.",
+  "category": "Animals",
+  "tags": [
+    "turtle",
+    "animal"
+  ],
+  "difficulty": "medium",
+  "thumbnail": "thumbnail.svg",
+  "artwork": "canvas.svg",
+  "palette": [
+    {
+      "number": 1,
+      "color": "#22C55E",
+      "name": "Green"
+    },
+    {
+      "number": 2,
+      "color": "#86EFAC",
+      "name": "Light green"
+    },
+    {
+      "number": 3,
+      "color": "#A3E635",
+      "name": "Lime"
+    },
+    {
+      "number": 4,
+      "color": "#15803D",
+      "name": "Dark green"
+    }
+  ],
+  "minimumGameVersion": "1.0.0",
+  "sizeBytes": 4570,
+  "updatedAt": "2026-11-24T00:00:00Z",
+  "sha256": "1f660fd044cfb569d217518931027940bb0dc9793eba9f6ff74703eb170e8514",
+  "featured": false,
+  "ageBand": "3-6",
+  "sortOrder": 60
+}
