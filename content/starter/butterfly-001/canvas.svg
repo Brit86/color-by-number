@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Butterfly">
+  <g>
+  <ellipse cx="168" cy="95" rx="6" ry="28" transform="rotate(35 168 95)" fill="#64748B" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" />
+  <ellipse cx="232" cy="95" rx="6" ry="28" transform="rotate(-35 232 95)" fill="#64748B" stroke="#1F2937" stroke-width="2" stroke-linejoin="round" />
+  <ellipse cx="140" cy="160" rx="55" ry="70" transform="rotate(-25 140 160)" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r1" data-number="1" class="region" />
+  <ellipse cx="260" cy="160" rx="55" ry="70" transform="rotate(25 260 160)" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r2" data-number="1" class="region" />
+  <ellipse cx="145" cy="270" rx="45" ry="50" transform="rotate(20 145 270)" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r3" data-number="2" class="region" />
+  <ellipse cx="255" cy="270" rx="45" ry="50" transform="rotate(-20 255 270)" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r4" data-number="2" class="region" />
+  <circle cx="130" cy="145" r="16" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r9" data-number="4" class="region" />
+  <circle cx="270" cy="145" r="16" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r10" data-number="4" class="region" />
+  <circle cx="145" cy="268" r="12" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r11" data-number="4" class="region" />
+  <circle cx="255" cy="268" r="12" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r12" data-number="4" class="region" />
+  <ellipse cx="200" cy="215" rx="18" ry="75" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r5" data-number="3" class="region" />
+  <circle cx="200" cy="130" r="20" fill="#FFFFFF" stroke="#1F2937" stroke-width="3" stroke-linejoin="round" id="r6" data-number="3" class="region" />
+  </g>
+  <g class="labels">
+    <text class="num-label" x="140" y="160" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="260" y="160" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">1</text>
+    <text class="num-label" x="145" y="270" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="255" y="270" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">2</text>
+    <text class="num-label" x="130" y="145" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="270" y="145" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="145" y="268" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="255" y="268" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">4</text>
+    <text class="num-label" x="200" y="215" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">3</text>
+    <text class="num-label" x="200" y="130" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#1F2937" font-family="sans-serif">3</text>
+  </g>
+</svg>

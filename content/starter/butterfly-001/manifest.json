@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "butterfly-001",
+  "version": 1,
+  "title": "Butterfly",
+  "description": "A purple and pink butterfly.",
+  "category": "Nature",
+  "tags": [
+    "butterfly",
+    "insect",
+    "nature"
+  ],
+  "difficulty": "medium",
+  "thumbnail": "thumbnail.svg",
+  "artwork": "canvas.svg",
+  "palette": [
+    {
+      "number": 1,
+      "color": "#A855F7",
+      "name": "Purple"
+    },
+    {
+      "number": 2,
+      "color": "#F472B6",
+      "name": "Pink"
+    },
+    {
+      "number": 3,
+      "color": "#64748B",
+      "name": "Slate"
+    },
+    {
+      "number": 4,
+      "color": "#F2C230",
+      "name": "Sunny yellow"
+    }
+  ],
+  "minimumGameVersion": "1.0.0",
+  "sizeBytes": 5546,
+  "updatedAt": "2026-11-24T00:00:00Z",
+  "sha256": "6507a3e05caeb635eaea75e31ef3f58d2634db9b193831106b00d3dfcc1a263a",
+  "featured": true,
+  "ageBand": "3-6",
+  "sortOrder": 50
+}
