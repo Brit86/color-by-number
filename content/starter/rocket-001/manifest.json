@@ -1,83 +1,124 @@
 {
   "schemaVersion": 1,
   "id": "rocket-001",
-  "version": 2,
+  "version": 3,
   "title": "Rocket",
-  "description": "A little red rocket blasting off.",
+  "description": "A rocket in deep space with the moon and a ringed planet.",
   "category": "Space",
   "tags": [
     "rocket",
-    "space"
+    "space",
+    "planet"
   ],
-  "difficulty": "medium",
+  "difficulty": "hard",
   "thumbnail": "thumbnail.svg",
   "artwork": "canvas.svg",
   "palette": [
     {
       "number": 1,
-      "color": "#EF4444",
-      "name": "Red"
+      "color": "#FCF197",
+      "name": "Cream"
     },
     {
       "number": 2,
-      "color": "#F8FAFC",
-      "name": "White"
+      "color": "#E24A30",
+      "name": "Red"
     },
     {
       "number": 3,
-      "color": "#CBD5E1",
-      "name": "Silver"
+      "color": "#F8E37C",
+      "name": "Cream"
     },
     {
       "number": 4,
-      "color": "#2563EB",
-      "name": "Blue"
+      "color": "#3E61A4",
+      "name": "Steel blue"
     },
     {
       "number": 5,
-      "color": "#FACC15",
-      "name": "Yellow"
+      "color": "#CDC0B9",
+      "name": "Lilac"
     },
     {
       "number": 6,
-      "color": "#F97316",
-      "name": "Orange"
+      "color": "#D6A363",
+      "name": "Sand"
     },
     {
       "number": 7,
-      "color": "#7C3AED",
-      "name": "Purple"
+      "color": "#EAE5DE",
+      "name": "Light grey"
     },
     {
       "number": 8,
-      "color": "#14B8A6",
-      "name": "Teal"
+      "color": "#1A2A63",
+      "name": "Midnight blue"
     },
     {
       "number": 9,
-      "color": "#F9A8D4",
-      "name": "Pink"
+      "color": "#C25D54",
+      "name": "Caramel"
     },
     {
       "number": 10,
-      "color": "#1E3A8A",
-      "name": "Navy"
+      "color": "#EF973C",
+      "name": "Coral"
     },
     {
       "number": 11,
-      "color": "#94A3B8",
-      "name": "Grey"
+      "color": "#E3C488",
+      "name": "Sand"
     },
     {
       "number": 12,
-      "color": "#D97706",
-      "name": "Gold"
+      "color": "#DB7B34",
+      "name": "Terracotta"
+    },
+    {
+      "number": 13,
+      "color": "#AF9F8E",
+      "name": "Khaki"
+    },
+    {
+      "number": 14,
+      "color": "#FAB039",
+      "name": "Yellow"
+    },
+    {
+      "number": 15,
+      "color": "#3B438A",
+      "name": "Dark grey"
+    },
+    {
+      "number": 16,
+      "color": "#956D3E",
+      "name": "Caramel"
+    },
+    {
+      "number": 17,
+      "color": "#A07BBC",
+      "name": "Grey"
+    },
+    {
+      "number": 18,
+      "color": "#8C8987",
+      "name": "Slate grey"
+    },
+    {
+      "number": 19,
+      "color": "#5C8CBD",
+      "name": "Steel blue"
+    },
+    {
+      "number": 20,
+      "color": "#6E6E6F",
+      "name": "Slate grey"
     }
   ],
   "minimumGameVersion": "1.0.0",
-  "sizeBytes": 44040,
-  "updatedAt": "2026-11-24T00:00:00Z",
-  "sha256": "f6b0df220f8b492828d047f0c8efb4a6c936e1279c2e943f15c45119525ae749",
+  "sizeBytes": 205646,
+  "updatedAt": "2026-11-25T00:00:00Z",
+  "sha256": "15a2d2a50ea11d08641ef7ae4e03aca776f7f04e3ac910399b555bff625b6371",
   "featured": false,
   "ageBand": "adult",
   "sortOrder": 30
