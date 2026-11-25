@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "rocket-001",
+  "version": 1,
+  "title": "Rocket",
+  "description": "A little red rocket blasting off.",
+  "category": "Space",
+  "tags": [
+    "rocket",
+    "space"
+  ],
+  "difficulty": "easy",
+  "thumbnail": "thumbnail.svg",
+  "artwork": "canvas.svg",
+  "palette": [
+    {
+      "number": 1,
+      "color": "#EF4444",
+      "name": "Red"
+    },
+    {
+      "number": 2,
+      "color": "#F2C230",
+      "name": "Sunny yellow"
+    },
+    {
+      "number": 3,
+      "color": "#3B82F6",
+      "name": "Blue"
+    },
+    {
+      "number": 4,
+      "color": "#FB923C",
+      "name": "Orange"
+    }
+  ],
+  "minimumGameVersion": "1.0.0",
+  "sizeBytes": 5248,
+  "updatedAt": "2026-11-24T00:00:00Z",
+  "sha256": "3d9d6a4e73c2d929faa968f78e77a1fa9a5a2dd32afe7c0106c8127a9577e0d1",
+  "featured": false,
+  "ageBand": "3-6",
+  "sortOrder": 30
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Rocket">
+  <path d="M 170 280 L 230 280 L 215 340 Q 200 365 185 340 Z" fill="#FB923C" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <path d="M 185 280 L 215 280 L 205 325 Q 200 340 195 325 Z" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="150,240 110,310 150,300" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="250,240 290,310 250,300" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <path d="M 200 40 Q 250 90 250 180 L 250 280 L 150 280 L 150 180 Q 150 90 200 40 Z" fill="#EF4444" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <path d="M 200 40 Q 230 75 235 110 L 165 110 Q 170 75 200 40 Z" fill="#F2C230" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="196" y="14" width="8" height="30" rx="4" fill="#EF4444" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
+  <circle cx="200" cy="14" r="10" fill="#F2C230" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
+  <circle cx="200" cy="180" r="32" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="200" cy="180" r="20" fill="#BFDBFE" stroke="rgba(31,41,55,0.25)" stroke-width="1" stroke-linejoin="round" />
+  <rect x="160" y="220" width="18" height="60" rx="9" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+  <rect x="222" y="220" width="18" height="60" rx="9" fill="#3B82F6" stroke="rgba(31,41,55,0.35)" stroke-width="1.5" stroke-linejoin="round" />
+</svg>
