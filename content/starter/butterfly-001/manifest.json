@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "id": "butterfly-001",
-  "version": 2,
+  "version": 3,
   "title": "Butterfly",
-  "description": "A purple and pink butterfly.",
+  "description": "A butterfly in a meadow with flowers.",
   "category": "Nature",
   "tags": [
     "butterfly",
     "insect",
-    "nature"
+    "meadow"
   ],
   "difficulty": "hard",
   "thumbnail": "thumbnail.svg",
@@ -16,79 +16,109 @@
   "palette": [
     {
       "number": 1,
-      "color": "#F97316",
-      "name": "Orange"
+      "color": "#FDFDFA",
+      "name": "White"
     },
     {
       "number": 2,
-      "color": "#FACC15",
-      "name": "Yellow"
+      "color": "#8C9B4F",
+      "name": "Sage green"
     },
     {
       "number": 3,
-      "color": "#EC4899",
-      "name": "Pink"
+      "color": "#637838",
+      "name": "Moss green"
     },
     {
       "number": 4,
-      "color": "#8B5CF6",
-      "name": "Purple"
+      "color": "#798E40",
+      "name": "Moss green"
     },
     {
       "number": 5,
-      "color": "#3B82F6",
-      "name": "Blue"
+      "color": "#77804F",
+      "name": "Moss green"
     },
     {
       "number": 6,
-      "color": "#14B8A6",
-      "name": "Teal"
+      "color": "#FAE46C",
+      "name": "Mustard"
     },
     {
       "number": 7,
-      "color": "#22C55E",
-      "name": "Leaf green"
+      "color": "#F183B1",
+      "name": "Dusty pink"
     },
     {
       "number": 8,
-      "color": "#EF4444",
-      "name": "Red"
+      "color": "#F9D154",
+      "name": "Mustard"
     },
     {
       "number": 9,
-      "color": "#FEF3C7",
-      "name": "Cream"
+      "color": "#F78C43",
+      "name": "Coral"
     },
     {
       "number": 10,
-      "color": "#92400E",
-      "name": "Brown"
+      "color": "#F69FC5",
+      "name": "Pink"
     },
     {
       "number": 11,
-      "color": "#7DD3FC",
-      "name": "Sky blue"
+      "color": "#99A65A",
+      "name": "Sage green"
     },
     {
       "number": 12,
-      "color": "#D946EF",
-      "name": "Magenta"
+      "color": "#A9609B",
+      "name": "Plum"
     },
     {
       "number": 13,
-      "color": "#A3E635",
-      "name": "Lime"
+      "color": "#D0558B",
+      "name": "Rose"
     },
     {
       "number": 14,
-      "color": "#6B7280",
-      "name": "Grey"
+      "color": "#5A52AA",
+      "name": "Slate blue"
+    },
+    {
+      "number": 15,
+      "color": "#C33A79",
+      "name": "Rose"
+    },
+    {
+      "number": 16,
+      "color": "#E56A4C",
+      "name": "Terracotta"
+    },
+    {
+      "number": 17,
+      "color": "#874D86",
+      "name": "Plum"
+    },
+    {
+      "number": 18,
+      "color": "#E86873",
+      "name": "Rose"
+    },
+    {
+      "number": 19,
+      "color": "#4A8FC6",
+      "name": "Steel blue"
+    },
+    {
+      "number": 20,
+      "color": "#AA686B",
+      "name": "Caramel"
     }
   ],
   "minimumGameVersion": "1.0.0",
-  "sizeBytes": 51884,
-  "updatedAt": "2026-11-24T00:00:00Z",
-  "sha256": "c178a6084286005466397532ef0eb79f4d45eaa309311b144e7e1dee399d352e",
+  "sizeBytes": 441482,
+  "updatedAt": "2026-11-25T00:00:00Z",
+  "sha256": "0389eb424ec418e00d24e0d329fc71b7bb3d7d64442d91d895019fb83d588b2c",
   "featured": true,
   "ageBand": "adult",
   "sortOrder": 50
