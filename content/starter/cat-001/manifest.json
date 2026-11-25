@@ -1,89 +1,124 @@
 {
   "schemaVersion": 1,
   "id": "cat-001",
-  "version": 2,
+  "version": 3,
   "title": "Cat",
-  "description": "A friendly orange cat sitting up.",
+  "description": "A long-haired cat among flowers and mandalas.",
   "category": "Animals",
   "tags": [
     "cat",
     "animal",
-    "pet"
+    "mandala"
   ],
-  "difficulty": "medium",
+  "difficulty": "hard",
   "thumbnail": "thumbnail.svg",
   "artwork": "canvas.svg",
   "palette": [
     {
       "number": 1,
-      "color": "#F59E0B",
-      "name": "Orange"
+      "color": "#A5C7E4",
+      "name": "Powder blue"
     },
     {
       "number": 2,
-      "color": "#FDE68A",
-      "name": "Cream"
+      "color": "#B6D5E8",
+      "name": "Powder blue"
     },
     {
       "number": 3,
-      "color": "#F9A8D4",
-      "name": "Pink"
+      "color": "#ECAD6D",
+      "name": "Sand"
     },
     {
       "number": 4,
-      "color": "#3B82F6",
-      "name": "Blue"
+      "color": "#DF9352",
+      "name": "Terracotta"
     },
     {
       "number": 5,
-      "color": "#22C55E",
-      "name": "Leaf green"
+      "color": "#799B58",
+      "name": "Sage green"
     },
     {
       "number": 6,
-      "color": "#92400E",
-      "name": "Brown"
+      "color": "#DA9B65",
+      "name": "Sand"
     },
     {
       "number": 7,
-      "color": "#FACC15",
-      "name": "Yellow"
+      "color": "#D58344",
+      "name": "Terracotta"
     },
     {
       "number": 8,
-      "color": "#9CA3AF",
-      "name": "Grey"
+      "color": "#E273AA",
+      "name": "Dusty pink"
     },
     {
       "number": 9,
-      "color": "#EF4444",
-      "name": "Red"
+      "color": "#EFBB84",
+      "name": "Cream"
     },
     {
       "number": 10,
-      "color": "#8B5CF6",
-      "name": "Purple"
+      "color": "#ED8AB8",
+      "name": "Dusty pink"
     },
     {
       "number": 11,
-      "color": "#14B8A6",
-      "name": "Teal"
+      "color": "#8AB4DD",
+      "name": "Baby blue"
     },
     {
       "number": 12,
-      "color": "#78350F",
-      "name": "Dark brown"
+      "color": "#F7D59F",
+      "name": "Pale peach"
     },
     {
       "number": 13,
-      "color": "#7DD3FC",
-      "name": "Sky blue"
+      "color": "#618741",
+      "name": "Moss green"
+    },
+    {
+      "number": 14,
+      "color": "#93B574",
+      "name": "Sage green"
+    },
+    {
+      "number": 15,
+      "color": "#C9518B",
+      "name": "Rose"
+    },
+    {
+      "number": 16,
+      "color": "#B162A8",
+      "name": "Plum"
+    },
+    {
+      "number": 17,
+      "color": "#FAFDFD",
+      "name": "White"
+    },
+    {
+      "number": 18,
+      "color": "#DC484C",
+      "name": "Red"
+    },
+    {
+      "number": 19,
+      "color": "#E66476",
+      "name": "Rose"
+    },
+    {
+      "number": 20,
+      "color": "#233F0E",
+      "name": "Black"
     }
   ],
   "minimumGameVersion": "1.0.0",
-  "sizeBytes": 46155,
-  "updatedAt": "2026-11-24T00:00:00Z",
-  "sha256": "b48e0c9433aeaa8afa4389f489751dc0a117afa7a6aa8b6803fe307f88148f32",
+  "sizeBytes": 443111,
+  "updatedAt": "2026-11-25T00:00:00Z",
+  "sha256": "612f4dc2dfd98eba0ffd87772835e48b37870eff8eb4870087e8d3942e609a4e",
   "featured": false,
   "ageBand": "adult",
   "sortOrder": 10
