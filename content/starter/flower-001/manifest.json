@@ -1,89 +1,129 @@
 {
   "schemaVersion": 1,
   "id": "flower-001",
-  "version": 2,
+  "version": 3,
   "title": "Flower",
-  "description": "A cheerful flower in a pot.",
+  "description": "A sunflower with daisies, tulips and a bee.",
   "category": "Flowers",
   "tags": [
     "flower",
-    "plant",
-    "nature"
+    "sunflower",
+    "garden"
   ],
-  "difficulty": "medium",
+  "difficulty": "hard",
   "thumbnail": "thumbnail.svg",
   "artwork": "canvas.svg",
   "palette": [
     {
       "number": 1,
-      "color": "#FACC15",
-      "name": "Yellow"
+      "color": "#EFA41E",
+      "name": "Orange"
     },
     {
       "number": 2,
-      "color": "#F97316",
+      "color": "#F5AD18",
       "name": "Orange"
     },
     {
       "number": 3,
-      "color": "#92400E",
-      "name": "Brown"
+      "color": "#F3F5F0",
+      "name": "Ivory"
     },
     {
       "number": 4,
-      "color": "#22C55E",
-      "name": "Leaf green"
+      "color": "#F6B824",
+      "name": "Yellow"
     },
     {
       "number": 5,
-      "color": "#166534",
-      "name": "Dark green"
+      "color": "#5F863D",
+      "name": "Moss green"
     },
     {
       "number": 6,
-      "color": "#EC4899",
-      "name": "Pink"
+      "color": "#639A46",
+      "name": "Moss green"
     },
     {
       "number": 7,
-      "color": "#8B5CF6",
-      "name": "Purple"
-    },
-    {
-      "number": 8,
-      "color": "#EF4444",
+      "color": "#CA383B",
       "name": "Red"
     },
     {
+      "number": 8,
+      "color": "#527337",
+      "name": "Moss green"
+    },
+    {
       "number": 9,
-      "color": "#F8FAFC",
-      "name": "White"
+      "color": "#759B42",
+      "name": "Sage green"
     },
     {
       "number": 10,
-      "color": "#3B82F6",
-      "name": "Blue"
+      "color": "#D44F4F",
+      "name": "Red"
     },
     {
       "number": 11,
-      "color": "#7DD3FC",
-      "name": "Sky blue"
+      "color": "#E9981E",
+      "name": "Orange"
     },
     {
       "number": 12,
-      "color": "#FEF3C7",
-      "name": "Cream"
+      "color": "#F8C332",
+      "name": "Yellow"
     },
     {
       "number": 13,
-      "color": "#14B8A6",
-      "name": "Teal"
+      "color": "#72A94B",
+      "name": "Sage green"
+    },
+    {
+      "number": 14,
+      "color": "#355230",
+      "name": "Charcoal"
+    },
+    {
+      "number": 15,
+      "color": "#86AF4F",
+      "name": "Sage green"
+    },
+    {
+      "number": 16,
+      "color": "#E97675",
+      "name": "Salmon"
+    },
+    {
+      "number": 17,
+      "color": "#DE6565",
+      "name": "Terracotta"
+    },
+    {
+      "number": 18,
+      "color": "#EE8B87",
+      "name": "Salmon"
+    },
+    {
+      "number": 19,
+      "color": "#6F8A58",
+      "name": "Moss green"
+    },
+    {
+      "number": 20,
+      "color": "#CDD665",
+      "name": "Sand"
+    },
+    {
+      "number": 21,
+      "color": "#563A22",
+      "name": "Dark brown"
     }
   ],
   "minimumGameVersion": "1.0.0",
-  "sizeBytes": 47819,
-  "updatedAt": "2026-11-24T00:00:00Z",
-  "sha256": "8e714c51fdae49a6543b92a530d185657229d9df42f14252bd6cd789cda61147",
+  "sizeBytes": 323562,
+  "updatedAt": "2026-11-25T00:00:00Z",
+  "sha256": "6a975640dca410d925a056beebeb518be1201e4e897072b61df45432cf677d7b",
   "featured": false,
   "ageBand": "adult",
   "sortOrder": 40
